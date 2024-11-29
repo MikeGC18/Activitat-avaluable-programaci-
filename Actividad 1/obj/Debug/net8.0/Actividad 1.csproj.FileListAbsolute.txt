@@ -1,0 +1,14 @@
+C:\Users\mrobe\OneDrive\Documentos\DAW\programacion\Actividad avaluable C#\Actividad 1\bin\Debug\net8.0\Actividad 1.exe
+C:\Users\mrobe\OneDrive\Documentos\DAW\programacion\Actividad avaluable C#\Actividad 1\bin\Debug\net8.0\Actividad 1.deps.json
+C:\Users\mrobe\OneDrive\Documentos\DAW\programacion\Actividad avaluable C#\Actividad 1\bin\Debug\net8.0\Actividad 1.runtimeconfig.json
+C:\Users\mrobe\OneDrive\Documentos\DAW\programacion\Actividad avaluable C#\Actividad 1\bin\Debug\net8.0\Actividad 1.dll
+C:\Users\mrobe\OneDrive\Documentos\DAW\programacion\Actividad avaluable C#\Actividad 1\bin\Debug\net8.0\Actividad 1.pdb
+C:\Users\mrobe\OneDrive\Documentos\DAW\programacion\Actividad avaluable C#\Actividad 1\obj\Debug\net8.0\Actividad 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrobe\OneDrive\Documentos\DAW\programacion\Actividad avaluable C#\Actividad 1\obj\Debug\net8.0\Actividad 1.AssemblyInfoInputs.cache
+C:\Users\mrobe\OneDrive\Documentos\DAW\programacion\Actividad avaluable C#\Actividad 1\obj\Debug\net8.0\Actividad 1.AssemblyInfo.cs
+C:\Users\mrobe\OneDrive\Documentos\DAW\programacion\Actividad avaluable C#\Actividad 1\obj\Debug\net8.0\Actividad 1.csproj.CoreCompileInputs.cache
+C:\Users\mrobe\OneDrive\Documentos\DAW\programacion\Actividad avaluable C#\Actividad 1\obj\Debug\net8.0\Actividad 1.dll
+C:\Users\mrobe\OneDrive\Documentos\DAW\programacion\Actividad avaluable C#\Actividad 1\obj\Debug\net8.0\refint\Actividad 1.dll
+C:\Users\mrobe\OneDrive\Documentos\DAW\programacion\Actividad avaluable C#\Actividad 1\obj\Debug\net8.0\Actividad 1.pdb
+C:\Users\mrobe\OneDrive\Documentos\DAW\programacion\Actividad avaluable C#\Actividad 1\obj\Debug\net8.0\Actividad 1.genruntimeconfig.cache
+C:\Users\mrobe\OneDrive\Documentos\DAW\programacion\Actividad avaluable C#\Actividad 1\obj\Debug\net8.0\ref\Actividad 1.dll
